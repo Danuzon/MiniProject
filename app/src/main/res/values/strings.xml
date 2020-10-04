@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Delivery</string>
+    <string name="select_Address">Select Address</string>
+    <string name="order_will_be_delivered_to_selected_address">Order will be delivered to selected address</string>
+    <string name="address_1">Address 1</string>
+    <string name="addbox1">354/b, hunnupitia, colombo</string>
+    <string name="add2">Address 2</string>
+    <string name="addbox2">5558 ,road , colombo</string>
+    <string name="addr">Address</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone_no">Phone No</string>
+    <string name="adding">ADDING</string>
+    <string name="ad">Address 1</string>
+    <string name="tbox">354/b, hunnupitia, colombo</string>
+    <string name="confirm_to_deliver">CONFIRM TO DELIVER</string>
+</resources>
